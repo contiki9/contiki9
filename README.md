@@ -10,6 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contiki9&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+[過去の経歴](https://www.notion.so/contiki9/12656b4774e94ffebdc556a9f00c27cd?v=a4dcbe065e654343808e159efe564b4a)
+
+
 
 <!--
 **contiki9/contiki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
