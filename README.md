@@ -3,6 +3,13 @@
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
 
+## Skill
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,html,css,jest,react,nextjs,vercel,netlify,figma,vscode" />
+
+[More](https://www.notion.so/contiki9/b4e30e56f0684dc7833c2e03f85ea529)
+
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contiki9&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=contiki9&show_icons=true)
