@@ -9,6 +9,7 @@
 [More](https://www.notion.so/contiki9/b4e30e56f0684dc7833c2e03f85ea529)
 
 
+## History
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contiki9&theme=vue)
 
@@ -17,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contiki9&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[過去の経歴](https://www.notion.so/contiki9/12656b4774e94ffebdc556a9f00c27cd?v=a4dcbe065e654343808e159efe564b4a)
+[More](https://www.notion.so/contiki9/12656b4774e94ffebdc556a9f00c27cd?v=a4dcbe065e654343808e159efe564b4a)
 
 
 
