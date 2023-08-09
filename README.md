@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+
+[![](https://komarev.com/ghpvc/?username=contiki9&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+
 
 ## Skill
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,html,css,jest,react,nextjs,vercel,netlify,figma,vscode" />
@@ -13,13 +15,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contiki9&theme=vue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=contiki9&show_icons=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contiki9&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [More](https://www.notion.so/contiki9/12656b4774e94ffebdc556a9f00c27cd?v=a4dcbe065e654343808e159efe564b4a)
-
 
 
 <!--
